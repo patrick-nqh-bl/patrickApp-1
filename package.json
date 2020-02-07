@@ -1,0 +1,19 @@
+{
+  "name": "patrickapp-1",
+  "version": "1.0.0",
+  "description": "Demo a simple web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrick-nqh-bl/patrickApp-1.git"
+  },
+  "author": "Patrick Kert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrick-nqh-bl/patrickApp-1/issues"
+  },
+  "homepage": "https://github.com/patrick-nqh-bl/patrickApp-1#readme"
+}
